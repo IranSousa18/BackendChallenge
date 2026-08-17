@@ -104,10 +104,10 @@ Para cadastrar um usuário são necessários:
 
 ```json
 {
-  "name": "Iran",
-  "email": "iran@email.com",
+  "name": "Nome",
+  "email": "Ex@email.com",
   "password": "123456",
-  "cpf": "097.120.693-70",
+  "cpf": "000.000.000-000", ou "cpf": "00000000000",
   "birthDate": "2000-01-01"
 }
 ```
