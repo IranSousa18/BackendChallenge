@@ -201,7 +201,7 @@ Embora a aplicação utilize armazenamento em memória, os scripts representam c
 Clone o repositório:
 
 ```bash
-git clone <URL-DO-REPOSITORIO>
+git clone https://github.com/IranSousa18/BackendChallenge.git
 ```
 
 Entre na pasta da API:
