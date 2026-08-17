@@ -107,7 +107,7 @@ Para cadastrar um usuário são necessários:
   "name": "Nome",
   "email": "Ex@email.com",
   "password": "123456",
-  "cpf": "000.000.000-000", ou "cpf": "00000000000",
+  "cpf": "000.000.000-000",
   "birthDate": "2000-01-01"
 }
 ```
