@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackendChallange.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6afc36439d2d1c95c3c11756c43d013bb112c54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9622b1609dbd3c7cf94a767cdcd76488df53681d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackendChallange.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackendChallange.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
